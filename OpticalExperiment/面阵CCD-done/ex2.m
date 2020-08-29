@@ -1,0 +1,20 @@
+h_1 = pwm(54,108,2,1,0);
+h_2 = h_1;
+x = 1:324;
+figure(1);
+axes('LineWidth',1.5,'FontSize',15);
+subplot(2,1,1);
+plot(x,h_1,'LineWidth',3);
+set(gca,'FontSize',15);
+xlabel('x','FontSize',15);
+
+ylim([0 1.5]);
+legend('H_1');
+subplot(2,1,2);
+plot(x,h_2,'LineWidth',3);
+set(gca,'FontSize',15);
+xlabel('x','FontSize',15);
+%axis('LineWidth',1.5,'FontSize',15);
+ylim([0 1.5]);
+legend('H_2');
+% saveas(gcf,1000,800,'41.png','png');

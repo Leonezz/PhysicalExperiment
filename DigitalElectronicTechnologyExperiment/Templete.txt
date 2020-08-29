@@ -1,0 +1,99 @@
+\documentclass[UTF8]{ctexart}
+\usepackage{geometry}
+\usepackage{array}
+
+% 封面
+\geometry{a4paper,left=1cm,right=2cm,top=1cm,bottom=1cm}
+\title{\Huge 电工电子实验中心}
+\author{\Large 实验报告}
+\begin{document}
+\maketitle
+\vspace{6\baselineskip}
+\renewcommand\arraystretch{1.5}
+\begin{table}[h]
+    \centering
+    \Large
+    \setlength{\tabcolsep}{5mm}{
+        \begin{tabular}{rcrc}
+            课程名称： & 数字电子技术 & 实验项目： & 组合逻辑电路 \\
+
+            姓名：     & 朱文强       & 学号：     & 081730109    \\
+
+            班级：     & 0817301      & 日期：     & \today       \\
+
+            地点：     & 3313         & 成绩：     &              \\
+        \end{tabular}}
+\end{table}
+
+\vspace{10\baselineskip}
+
+\centering
+南京航空航天大学 \\
+\newpage
+
+
+% 内容页
+\begin{enumerate}
+    \large
+    \vspace{1\baselineskip}
+    \item  预习：
+          \begin{itemize}
+              \item 设计任务：
+                    \begin{itemize}
+                        \item [1.]  \\
+                              要求：
+                              \begin{itemize}
+                                  \item [1)]  
+                                  \item [2)]  
+                              \end{itemize}
+                        \item [2.]  \\
+                              要求：
+                              \begin{itemize}
+                                  \item [1)]  
+                                  \item [2)]  
+                              \end{itemize}
+                    \end{itemize}
+              \item 原理及设计方案：
+                    \begin{itemize}
+                        \item [1.]  
+                              \begin{itemize}
+                                  \item [1)]  
+                                  \item [2)]                                           
+                                  \item [3)]  
+                                  \item [4)]  
+                                  \item [5)]                                         
+                              \end{itemize}
+                        \item [2.]  \\                                           
+                    \end{itemize}
+              \item 计算及仿真：
+                    \newpage
+
+
+          \end{itemize}
+    \item  实验目的：
+          \begin{itemize}
+              \item [1.]  
+              \item [2.]  
+              \item [3.]  
+          \end{itemize}
+    \item  实验仪器与器件：
+          \begin{itemize}
+              \item 实验仪器：\\
+                    \setlength{\tabcolsep}{30mm}{
+                        \begin{tabular}{lr}
+                                & 1台 \\
+                                & 1台 \\
+                              & 1台 \\
+                                    & 1台 \\
+                        \end{tabular}}
+              \item 实验器件：\\
+                    \setlength{\tabcolsep}{30mm}{
+                        \begin{tabular}{lr}
+                              & 多片 \\
+                              & 多片 \\
+                              & 1片  \\
+                        \end{tabular}}
+          \end{itemize}
+    \item  实验过程及数据分析：
+\end{enumerate}
+\end{document}
