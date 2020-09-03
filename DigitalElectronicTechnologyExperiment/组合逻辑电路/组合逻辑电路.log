@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.10.22)  3 SEP 2020 12:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.10.22)  3 SEP 2020 12:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/report.tex
-(f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/report.tex
+**f:/实验/DigitalElectronicTechnologyExperiment/组合逻辑电路/组合逻辑电路.tex
+(f:/实验/DigitalElectronicTechnologyExperiment/组合逻辑电路/组合逻辑电路.tex
 LaTeX2e <2018-12-01>
 (c:/texlive/2019/texmf-dist/tex/latex/ctex/ctexart.cls (c:/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2019-04-06 L3 programming layer (loader) 
@@ -543,111 +543,93 @@ File: UTF8.bdg 2015/04/18 4.8.4
 File: UTF8.enc 2015/04/18 4.8.4
 ) (c:/texlive/2019/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
 File: UTF8.chr 2015/04/18 4.8.4
-) (f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/report.aux
-
-LaTeX Warning: Label `fig:label' multiply defined.
-
-
-LaTeX Warning: Label `fig:label' multiply defined.
-
-
-LaTeX Warning: Label `fig:label' multiply defined.
-
-
-LaTeX Warning: Label `fig:label' multiply defined.
-
-
-LaTeX Warning: Label `fig:label' multiply defined.
-
-
-LaTeX Warning: Label `fig:label' multiply defined.
-
+) (f:/实验/DigitalElectronicTechnologyExperiment/组合逻辑电路/组合逻辑电路.aux
 
 LaTeX Warning: Label `fig:label' multiply defined.
 
 )
-\openout1 = `report.aux'.
+\openout1 = `组合逻辑电路.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 10.
+LaTeX Info: Redefining \selectfont on input line 11.
  (c:/texlive/2019/texmf-dist/tex/latex/fmtcount/fc-english.def
 File: fc-english.def 2016/01/12
 )
@@ -731,109 +713,61 @@ Package grfext Info: Graphics extension search list:
  (c:/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Font Info:    Try loading font information for C70+rm on input line 11.
+LaTeX Font Info:    Try loading font information for C70+rm on input line 13.
  (c:/texlive/2019/texmf-dist/tex/latex/ctex/fd/c70rm.fd
 File: c70rm.fd 2019/04/07 v2.4.15 Chinese font definition (CTEX)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12.045> on input line 11.
+(Font)              <12.045> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 11.
+(Font)              <8> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 11.
+(Font)              <6> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <15.05624> on input line 18.
+(Font)              <15.05624> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9.03374> on input line 18.
-Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (quanjiao) on input line 19.
-
-Overfull \hbox (38.97145pt too wide) in paragraph at lines 18--27
- [][] 
- []
-
-[1
+(Font)              <9.03374> on input line 20.
+Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (quanjiao) on input line 21.
+ [1
 
 ]
-<1.png, id=63, 696.6828pt x 234.1548pt>
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 41.
+ (c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12.045> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 41.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <15.05624> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 85.
+ [2]
+<1.png, id=101, 582.4962pt x 262.581pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
-Package pdftex.def Info: 1.png  used on input line 44.
-(pdftex.def)             Requested size: 418.0129pt x 140.49396pt.
-<2.png, id=67, 434.5836pt x 304.0158pt>
+Package pdftex.def Info: 1.png  used on input line 95.
+(pdftex.def)             Requested size: 349.50041pt x 157.5498pt.
+<2.png, id=104, 612.11235pt x 292.96027pt>
 File: 2.png Graphic file (type png)
 <use 2.png>
-Package pdftex.def Info: 2.png  used on input line 50.
-(pdftex.def)             Requested size: 260.75217pt x 182.41087pt.
-<3.png, id=70, 327.1422pt x 310.761pt>
-File: 3.png Graphic file (type png)
-<use 3.png>
-Package pdftex.def Info: 3.png  used on input line 56.
-(pdftex.def)             Requested size: 196.28682pt x 186.45804pt.
-<4.png, id=72, 324.7332pt x 305.943pt>
-File: 4.png Graphic file (type png)
-<use 4.png>
-Package pdftex.def Info: 4.png  used on input line 61.
-(pdftex.def)             Requested size: 194.84142pt x 183.5672pt.
- [2 <f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/1.png> <f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/2.png> <f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/3.png>]
-<5.png, id=88, 310.2792pt x 309.7974pt>
-File: 5.png Graphic file (type png)
-<use 5.png>
-Package pdftex.def Info: 5.png  used on input line 66.
-(pdftex.def)             Requested size: 186.16895pt x 185.87987pt.
-<6.png, id=91, 821.9508pt x 340.1508pt>
-File: 6.png Graphic file (type png)
-<use 6.png>
-Package pdftex.def Info: 6.png  used on input line 71.
-(pdftex.def)             Requested size: 493.17429pt x 204.09204pt.
-
-Overfull \hbox (28.02469pt too wide) in paragraph at lines 71--73
- [] 
- []
-
-[3 <f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/4.png> <f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/5.png> <f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/6.png>]
-<7.png, id=116, 963.6pt x 250.0542pt>
-File: 7.png Graphic file (type png)
-<use 7.png>
-Package pdftex.def Info: 7.png  used on input line 82.
-(pdftex.def)             Requested size: 385.43317pt x 100.0199pt.
-<10.png, id=118, 1146.2825pt x 537.00626pt>
-File: 10.png Graphic file (type png)
-<use 10.png>
-Package pdftex.def Info: 10.png  used on input line 88.
-(pdftex.def)             Requested size: 458.50488pt x 214.79869pt.
-<8.png, id=119, 817.0525pt x 499.8675pt>
-File: 8.png Graphic file (type png)
-<use 8.png>
-Package pdftex.def Info: 8.png  used on input line 91.
-(pdftex.def)             Requested size: 245.11765pt x 149.9614pt.
-<9.png, id=120, 634.37pt x 423.5825pt>
-File: 9.png Graphic file (type png)
-<use 9.png>
-Package pdftex.def Info: 9.png  used on input line 92.
-(pdftex.def)             Requested size: 253.7435pt x 169.43pt.
-
-Overfull \hbox (14.33243pt too wide) in paragraph at lines 91--93
-[] [] 
- []
-
-[4 <f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/7.png> <f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/10.png> <f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/8.png> <f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/9.png>] [5] (f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/report.aux)
+Package pdftex.def Info: 2.png  used on input line 102.
+(pdftex.def)             Requested size: 367.27025pt x 175.7775pt.
+ [3 <f:/实验/DigitalElectronicTechnologyExperiment/组合逻辑电路/1.png> <f:/实验/DigitalElectronicTechnologyExperiment/组合逻辑电路/2.png>] [4] [5] (f:/实验/DigitalElectronicTechnologyExperiment/组合逻辑电路/组合逻辑电路.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 17350 strings out of 494363
- 321810 string characters out of 6171392
- 348275 words of memory out of 5000000
- 20686 multiletter control sequences out of 15000+600000
- 558537 words of font info for 119 fonts, out of 8000000 for 9000
+ 17484 strings out of 494363
+ 323974 string characters out of 6171392
+ 354319 words of memory out of 5000000
+ 20810 multiletter control sequences out of 15000+600000
+ 561507 words of font info for 130 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
- 42i,11n,63p,1076b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/report.pdf (5 pages, 722187 bytes).
+ 42i,7n,63p,1088b,632s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on f:/实验/DigitalElectronicTechnologyExperiment/组合逻辑电路/组合逻辑电路.pdf (5 pages, 412234 bytes).
 PDF statistics:
- 307 PDF objects out of 1000 (max. 8388607)
- 175 compressed objects within 2 object streams
+ 311 PDF objects out of 1000 (max. 8388607)
+ 187 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 247 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 223 words of extra memory for PDF output out of 10000 (max. 10000000)
 

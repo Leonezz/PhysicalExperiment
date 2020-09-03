@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.10.22)  3 SEP 2020 12:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.10.22)  3 SEP 2020 12:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/report.tex
-(f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/report.tex
+**f:/实验/DigitalElectronicTechnologyExperiment/数据选择器与译码器的应用/report.tex
+(f:/实验/DigitalElectronicTechnologyExperiment/数据选择器与译码器的应用/report.tex
 LaTeX2e <2018-12-01>
 (c:/texlive/2019/texmf-dist/tex/latex/ctex/ctexart.cls (c:/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2019-04-06 L3 programming layer (loader) 
@@ -543,29 +543,7 @@ File: UTF8.bdg 2015/04/18 4.8.4
 File: UTF8.enc 2015/04/18 4.8.4
 ) (c:/texlive/2019/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
 File: UTF8.chr 2015/04/18 4.8.4
-) (f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/report.aux
-
-LaTeX Warning: Label `fig:label' multiply defined.
-
-
-LaTeX Warning: Label `fig:label' multiply defined.
-
-
-LaTeX Warning: Label `fig:label' multiply defined.
-
-
-LaTeX Warning: Label `fig:label' multiply defined.
-
-
-LaTeX Warning: Label `fig:label' multiply defined.
-
-
-LaTeX Warning: Label `fig:label' multiply defined.
-
-
-LaTeX Warning: Label `fig:label' multiply defined.
-
-)
+) (f:/实验/DigitalElectronicTechnologyExperiment/数据选择器与译码器的应用/report.aux)
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -754,86 +732,79 @@ Overfull \hbox (38.97145pt too wide) in paragraph at lines 18--27
 [1
 
 ]
-<1.png, id=63, 696.6828pt x 234.1548pt>
-File: 1.png Graphic file (type png)
-<use 1.png>
-Package pdftex.def Info: 1.png  used on input line 44.
-(pdftex.def)             Requested size: 418.0129pt x 140.49396pt.
-<2.png, id=67, 434.5836pt x 304.0158pt>
-File: 2.png Graphic file (type png)
-<use 2.png>
-Package pdftex.def Info: 2.png  used on input line 50.
-(pdftex.def)             Requested size: 260.75217pt x 182.41087pt.
-<3.png, id=70, 327.1422pt x 310.761pt>
-File: 3.png Graphic file (type png)
-<use 3.png>
-Package pdftex.def Info: 3.png  used on input line 56.
-(pdftex.def)             Requested size: 196.28682pt x 186.45804pt.
-<4.png, id=72, 324.7332pt x 305.943pt>
-File: 4.png Graphic file (type png)
-<use 4.png>
-Package pdftex.def Info: 4.png  used on input line 61.
-(pdftex.def)             Requested size: 194.84142pt x 183.5672pt.
- [2 <f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/1.png> <f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/2.png> <f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/3.png>]
-<5.png, id=88, 310.2792pt x 309.7974pt>
-File: 5.png Graphic file (type png)
-<use 5.png>
-Package pdftex.def Info: 5.png  used on input line 66.
-(pdftex.def)             Requested size: 186.16895pt x 185.87987pt.
-<6.png, id=91, 821.9508pt x 340.1508pt>
-File: 6.png Graphic file (type png)
-<use 6.png>
-Package pdftex.def Info: 6.png  used on input line 71.
-(pdftex.def)             Requested size: 493.17429pt x 204.09204pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 42.
+ (c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12.045> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
 
-Overfull \hbox (28.02469pt too wide) in paragraph at lines 71--73
- [] 
+Overfull \hbox (28.02255pt too wide) in paragraph at lines 51--52
+[]\C70/rm/m/n/12.045/5b � \C70/rm/m/n/12.045/4e �\OT1/cmr/m/n/12.045 74LS138|\C70/rm/m/n/12.045/ff ^^L| \C70/rm/m/n/12.045/8f � \C70/rm/m/n/12.045/51 � \C70/rm/m/n/12.045/5e � \C70/rm/m/n/12.045/8b � \C70/rm/m/n/12.045/4e : \C70/rm/m/n/12.045/4f N \C70/rm/m/n/12.045/75 5 \C70/rm/m/n/12.045/5e s|\C70/rm/m/n/12.045/ff ^^L| \C70/rm/m/n/12.045/51 v \C70/rm/m/n/12.045/4f Y \C70/rm/m/n/12.045/8f � \C70/rm/m/n/12.045/51 � \C70/rm/m/n/12.045/5f ^^U \C70/rm/m/n/12.045/81 ^^Z \C70/rm/m/n/12.045/4e : \C70/rm/m/n/12.045/9a � \C70/rm/m/n/12.045/75 5 \C70/rm/m/n/12.045/5e s|\C70/rm/m/n/12.045/30 ^^B| \C70/rm/m/n/12.045/5b � \C70/rm/m/n/12.045/4e �\OT1/cmr/m/n/12.045 74LS153|\C70/rm/m/n/12.045/ff ^^L| \C70/rm/m/n/12.045/8f � \C70/rm/m/n/12.045/51 �\OT1/cmr/m/n/12.045 Y=D3|\C70/rm/m/n/12.045/ff ^^L|
  []
 
-[3 <f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/4.png> <f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/5.png> <f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/6.png>]
-<7.png, id=116, 963.6pt x 250.0542pt>
+<7.png, id=83, 589.20125pt x 612.2875pt>
 File: 7.png Graphic file (type png)
 <use 7.png>
-Package pdftex.def Info: 7.png  used on input line 82.
-(pdftex.def)             Requested size: 385.43317pt x 100.0199pt.
-<10.png, id=118, 1146.2825pt x 537.00626pt>
-File: 10.png Graphic file (type png)
-<use 10.png>
-Package pdftex.def Info: 10.png  used on input line 88.
-(pdftex.def)             Requested size: 458.50488pt x 214.79869pt.
-<8.png, id=119, 817.0525pt x 499.8675pt>
+Package pdftex.def Info: 7.png  used on input line 56.
+(pdftex.def)             Requested size: 235.67632pt x 244.91066pt.
+<8.png, id=85, 1564.84625pt x 735.74875pt>
 File: 8.png Graphic file (type png)
 <use 8.png>
-Package pdftex.def Info: 8.png  used on input line 91.
-(pdftex.def)             Requested size: 245.11765pt x 149.9614pt.
-<9.png, id=120, 634.37pt x 423.5825pt>
-File: 9.png Graphic file (type png)
-<use 9.png>
-Package pdftex.def Info: 9.png  used on input line 92.
-(pdftex.def)             Requested size: 253.7435pt x 169.43pt.
+Package pdftex.def Info: 8.png  used on input line 58.
+(pdftex.def)             Requested size: 469.4575pt x 220.72632pt.
+<11.png, id=86, 1063.975pt x 685.56125pt>
+File: 11.png Graphic file (type png)
+<use 11.png>
+Package pdftex.def Info: 11.png  used on input line 60.
+(pdftex.def)             Requested size: 425.58246pt x 274.21964pt.
+<12.png, id=87, 636.3775pt x 447.6725pt>
+File: 12.png Graphic file (type png)
+<use 12.png>
+Package pdftex.def Info: 12.png  used on input line 62.
+(pdftex.def)             Requested size: 254.5465pt x 179.06583pt.
 
-Overfull \hbox (14.33243pt too wide) in paragraph at lines 91--93
-[] [] 
+Overfull \hbox (23.00787pt too wide) in paragraph at lines 56--64
+ [][] 
  []
 
-[4 <f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/7.png> <f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/10.png> <f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/8.png> <f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/9.png>] [5] (f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/report.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
-Here is how much of TeX's memory you used:
- 17350 strings out of 494363
- 321810 string characters out of 6171392
- 348275 words of memory out of 5000000
- 20686 multiletter control sequences out of 15000+600000
- 558537 words of font info for 119 fonts, out of 8000000 for 9000
- 81 hyphenation exceptions out of 8191
- 42i,11n,63p,1076b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on f:/实验/DigitalElectronicTechnologyExperiment/同步时序电路/report.pdf (5 pages, 722187 bytes).
-PDF statistics:
- 307 PDF objects out of 1000 (max. 8388607)
- 175 compressed objects within 2 object streams
- 0 named destinations out of 1000 (max. 500000)
- 247 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+[2 <f:/实验/DigitalElectronicTechnologyExperiment/数据选择器与译码器的应用/7.png> <f:/实验/DigitalElectronicTechnologyExperiment/数据选择器与译码器的应用/8.png>]
+<10.png, id=112, 704.6325pt x 753.81625pt>
+File: 10.png Graphic file (type png)
+<use 10.png>
+Package pdftex.def Info: 10.png  used on input line 68.
+(pdftex.def)             Requested size: 281.848pt x 301.52116pt.
+ [3 <f:/实验/DigitalElectronicTechnologyExperiment/数据选择器与译码器的应用/11.png> <f:/实验/DigitalElectronicTechnologyExperiment/数据选择器与译码器的应用/12.png> <f:/实验/DigitalElectronicTechnologyExperiment/数据选择器与译码器的应用/10.png>]
+<1.png, id=125, 1277.77374pt x 384.43625pt>
+File: 1.png Graphic file (type png)
+<use 1.png>
+Package pdftex.def Info: 1.png  used on input line 78.
+(pdftex.def)             Requested size: 383.33508pt x 115.33176pt.
+<2.png, id=129, 840.13875pt x 199.74625pt>
+File: 2.png Graphic file (type png)
+<use 2.png>
+Package pdftex.def Info: 2.png  used on input line 87.
+(pdftex.def)             Requested size: 336.04955pt x 79.89708pt.
+<3.png, id=130, 966.61125pt x 510.90875pt>
+File: 3.png Graphic file (type png)
+<use 3.png>
+Package pdftex.def Info: 3.png  used on input line 89.
+(pdftex.def)             Requested size: 386.63765pt x 204.35988pt.
+<4.png, id=131, 669.50125pt x 451.6875pt>
+File: 4.png Graphic file (type png)
+<use 4.png>
+Package pdftex.def Info: 4.png  used on input line 91.
+(pdftex.def)             Requested size: 267.79576pt x 180.67178pt.
+<5.png, id=132, 914.41624pt x 474.77374pt>
+File: 5.png Graphic file (type png)
+<use 5.png>
+Package pdftex.def Info: 5.png  used on input line 99.
+(pdftex.def)             Requested size: 365.76003pt x 189.90613pt.
+<6.png, id=133, 687.56876pt x 462.72874pt>
+File: 6.png Graphic file (type png)
+<use 6.png>
+Package pdftex.def Info: 6.png  used on input line 101.
+(pdftex.def)             Requested size: 275.02263pt x 185.08821pt.
+ [4 <f:/实验/DigitalElectronicTechnologyExperiment/数据选择器与译码器的应用/1.png> <f:/实验/DigitalElectronicTechnologyExperiment/数据选择器与译码器的应用/2.png> <f:/实验/DigitalElectronicTechnologyExperiment/数据选择器与译码器的应用/3.png> <f:/实验/DigitalElectronicTechnologyExperiment/数据选择器与译码器的应用/4.png>] [5 <f:/实验/DigitalElectronicTechnologyExperiment/数据选择器与译码器的应用/5.png>
+!pdfTeX error: pdflatex.exe: fflush() failed (Invalid argument)
+ ==> Fatal error occurred, no output PDF file produced!
