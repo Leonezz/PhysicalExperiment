@@ -1,126 +1,126 @@
 function createfigure(X1, Y1, Y2, Y3, Y4, Y5)
 %CREATEFIGURE(X1, Y1, Y2, Y3, Y4, Y5)
-%  X1:  x Êı¾İµÄÏòÁ¿
-%  Y1:  y Êı¾İµÄÏòÁ¿
-%  Y2:  y Êı¾İµÄÏòÁ¿
-%  Y3:  y Êı¾İµÄÏòÁ¿
-%  Y4:  y Êı¾İµÄÏòÁ¿
-%  Y5:  y Êı¾İµÄÏòÁ¿
+%  X1:  x æ•°æ®çš„å‘é‡
+%  Y1:  y æ•°æ®çš„å‘é‡
+%  Y2:  y æ•°æ®çš„å‘é‡
+%  Y3:  y æ•°æ®çš„å‘é‡
+%  Y4:  y æ•°æ®çš„å‘é‡
+%  Y5:  y æ•°æ®çš„å‘é‡
 
-%  ÓÉ MATLAB ÓÚ 07-Nov-2019 14:28:51 ×Ô¶¯Éú³É
+%  ç”± MATLAB äº 07-Nov-2019 14:28:51 è‡ªåŠ¨ç”Ÿæˆ
 
-% ´´½¨ figure
+% åˆ›å»º figure
 figure1 = figure('WindowState','maximized');
 
-% ´´½¨ axes
+% åˆ›å»º axes
 axes1 = axes('Parent',figure1,...
     'Position',[0.13 0.787537537537538 0.775 0.201951951951952]);
 hold(axes1,'on');
 
-% ´´½¨ plot
+% åˆ›å»º plot
 plot(X1,Y1,'DisplayName','sh','Parent',axes1,'LineWidth',3);
 
-% ´´½¨ xlabel
+% åˆ›å»º xlabel
 xlabel(' ','FontSize',15);
 
-% È¡ÏûÒÔÏÂĞĞµÄ×¢ÊÍÒÔ±£Áô×ø±êÇøµÄ Y ·¶Î§
+% å–æ¶ˆä»¥ä¸‹è¡Œçš„æ³¨é‡Šä»¥ä¿ç•™åæ ‡åŒºçš„ Y èŒƒå›´
 % ylim(axes1,[-15 35]);
 box(axes1,'on');
-% ÉèÖÃÆäÓà×ø±êÇøÊôĞÔ
+% è®¾ç½®å…¶ä½™åæ ‡åŒºå±æ€§
 set(axes1,'FontSize',15,'GridAlpha',1,'GridColor',[0 0 0],'GridLineStyle',...
     '--','Layer','top','LineWidth',1.5,'XGrid','on');
-% ´´½¨ legend
+% åˆ›å»º legend
 legend1 = legend(axes1,'show');
 set(legend1,'FontSize',24);
 
-% ´´½¨ axes
+% åˆ›å»º axes
 axes2 = axes('Parent',figure1,...
     'Position',[0.13 0.586336336336336 0.775 0.201951951951952]);
 hold(axes2,'on');
 
-% ´´½¨ plot
+% åˆ›å»º plot
 plot(X1,Y2,'DisplayName','V_1','Parent',axes2,'LineWidth',3);
 
-% ´´½¨ xlabel
+% åˆ›å»º xlabel
 xlabel(' ','FontSize',15);
 
-% È¡ÏûÒÔÏÂĞĞµÄ×¢ÊÍÒÔ±£Áô×ø±êÇøµÄ X ·¶Î§
+% å–æ¶ˆä»¥ä¸‹è¡Œçš„æ³¨é‡Šä»¥ä¿ç•™åæ ‡åŒºçš„ X èŒƒå›´
 % xlim(axes2,[-63.8056214843163 199936.194378516]);
-% È¡ÏûÒÔÏÂĞĞµÄ×¢ÊÍÒÔ±£Áô×ø±êÇøµÄ Y ·¶Î§
+% å–æ¶ˆä»¥ä¸‹è¡Œçš„æ³¨é‡Šä»¥ä¿ç•™åæ ‡åŒºçš„ Y èŒƒå›´
 % ylim(axes2,[-25.9514007400752 24.0485992599248]);
 box(axes2,'on');
-% ÉèÖÃÆäÓà×ø±êÇøÊôĞÔ
+% è®¾ç½®å…¶ä½™åæ ‡åŒºå±æ€§
 set(axes2,'FontSize',15,'GridAlpha',1,'GridLineStyle','--','Layer','top',...
     'LineWidth',1.5,'MinorGridAlpha',1,'XGrid','on');
-% ´´½¨ legend
+% åˆ›å»º legend
 legend2 = legend(axes2,'show');
 set(legend2,'FontSize',24);
 
-% ´´½¨ axes
+% åˆ›å»º axes
 axes3 = axes('Parent',figure1,...
     'Position',[0.13 0.399399399399399 0.775 0.188438438438438]);
 hold(axes3,'on');
 
-% ´´½¨ plot
+% åˆ›å»º plot
 plot(X1,Y3,'DisplayName','V_2','Parent',axes3,'LineWidth',3);
 
-% ´´½¨ xlabel
+% åˆ›å»º xlabel
 xlabel(' ','FontSize',15);
 
-% È¡ÏûÒÔÏÂĞĞµÄ×¢ÊÍÒÔ±£Áô×ø±êÇøµÄ X ·¶Î§
+% å–æ¶ˆä»¥ä¸‹è¡Œçš„æ³¨é‡Šä»¥ä¿ç•™åæ ‡åŒºçš„ X èŒƒå›´
 % xlim(axes3,[1.67921232474555e-11 200000]);
-% È¡ÏûÒÔÏÂĞĞµÄ×¢ÊÍÒÔ±£Áô×ø±êÇøµÄ Y ·¶Î§
+% å–æ¶ˆä»¥ä¸‹è¡Œçš„æ³¨é‡Šä»¥ä¿ç•™åæ ‡åŒºçš„ Y èŒƒå›´
 % ylim(axes3,[-25.9561752988048 24.0438247011952]);
 box(axes3,'on');
-% ÉèÖÃÆäÓà×ø±êÇøÊôĞÔ
+% è®¾ç½®å…¶ä½™åæ ‡åŒºå±æ€§
 set(axes3,'FontSize',15,'GridAlpha',1,'GridLineStyle','--','LineWidth',1.5,...
     'XGrid','on');
-% ´´½¨ legend
+% åˆ›å»º legend
 legend3 = legend(axes3,'show');
 set(legend3,'FontSize',24);
 
-% ´´½¨ axes
+% åˆ›å»º axes
 axes4 = axes('Parent',figure1,...
     'Position',[0.13 0.217717717717718 0.775 0.182432432432432]);
 hold(axes4,'on');
 
-% ´´½¨ plot
+% åˆ›å»º plot
 plot(X1,Y4,'DisplayName','V_3','Parent',axes4,'LineWidth',3);
 
-% ´´½¨ xlabel
+% åˆ›å»º xlabel
 xlabel(' ','FontSize',15);
 
-% È¡ÏûÒÔÏÂĞĞµÄ×¢ÊÍÒÔ±£Áô×ø±êÇøµÄ Y ·¶Î§
+% å–æ¶ˆä»¥ä¸‹è¡Œçš„æ³¨é‡Šä»¥ä¿ç•™åæ ‡åŒºçš„ Y èŒƒå›´
 % ylim(axes4,[-15 35]);
 box(axes4,'on');
-% ÉèÖÃÆäÓà×ø±êÇøÊôĞÔ
+% è®¾ç½®å…¶ä½™åæ ‡åŒºå±æ€§
 set(axes4,'FontSize',15,'GridAlpha',1,'GridLineStyle','--','LineWidth',1.5,...
     'XGrid','on');
-% ´´½¨ legend
+% åˆ›å»º legend
 legend4 = legend(axes4,'show');
 set(legend4,'FontSize',24);
 
-% ´´½¨ axes
+% åˆ›å»º axes
 axes5 = axes('Parent',figure1,...
     'Position',[0.13 0.0487987987987988 0.775 0.16966966966967]);
 hold(axes5,'on');
 
-% ´´½¨ plot
+% åˆ›å»º plot
 plot(X1,Y5,'DisplayName','V_4','Parent',axes5,'LineWidth',3);
 
-% ´´½¨ ylabel
+% åˆ›å»º ylabel
 ylabel('v/v','FontSize',18);
 
-% ´´½¨ xlabel
+% åˆ›å»º xlabel
 xlabel('t/ns','FontSize',18);
 
-% È¡ÏûÒÔÏÂĞĞµÄ×¢ÊÍÒÔ±£Áô×ø±êÇøµÄ Y ·¶Î§
+% å–æ¶ˆä»¥ä¸‹è¡Œçš„æ³¨é‡Šä»¥ä¿ç•™åæ ‡åŒºçš„ Y èŒƒå›´
 % ylim(axes5,[-15 35]);
 box(axes5,'on');
-% ÉèÖÃÆäÓà×ø±êÇøÊôĞÔ
+% è®¾ç½®å…¶ä½™åæ ‡åŒºå±æ€§
 set(axes5,'FontSize',15,'GridLineStyle','--','Layer','top','LineWidth',1.5,...
     'XGrid','on');
-% ´´½¨ legend
+% åˆ›å»º legend
 legend5 = legend(axes5,'show');
 set(legend5,'FontSize',24);
 

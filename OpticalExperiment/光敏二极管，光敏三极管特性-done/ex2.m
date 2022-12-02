@@ -5,4 +5,4 @@ plot(v,i);
 grid on;
 xlabel('V/V');
 ylabel('I/uA');
-title('光敏三极管工作电压V----工作电流I曲线');
+title('鍏夋晱涓夋瀬绠″伐浣滅數鍘媀----宸ヤ綔鐢垫祦I鏇茬嚎');

@@ -4,7 +4,7 @@ N = [10,14,19,23,28,32,36,42,46,50];
 dp = dp-p;
 
 plot(dp,N);
-set(get(gca, 'Title'), 'String', 'N-\Delta pÇúÏß');
+set(get(gca, 'Title'), 'String', 'N-\Delta pæ›²çº¿');
 set(get(gca, 'XLabel'), 'String', '\Delta p');
 set(get(gca, 'YLabel'), 'String', 'N');
 legend('N = 0.2248*dp+0.7697');

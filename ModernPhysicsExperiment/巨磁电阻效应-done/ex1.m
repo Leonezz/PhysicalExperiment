@@ -24,6 +24,6 @@ plot(b,R_B_0);
 grid on;
 xlabel('B/mT');
 ylabel('Rb/R0');
-title('Rb/R0--BÇúÏß');
+title('Rb/R0--Bæ›²çº¿');
 
 saveas(gcf,'plot1.png','png');

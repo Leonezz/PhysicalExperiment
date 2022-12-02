@@ -4,7 +4,7 @@
 
 % 封面
 \geometry{a4paper,left=1cm,right=2cm,top=1cm,bottom=1cm}
-\title{\Huge 电工电子实验中心}
+\title{\Huge xxxxxxxx}
 \author{\Large 实验报告}
 \begin{document}
 \maketitle
@@ -21,14 +21,14 @@
 
             班级：     & xxxxxxx      & 日期：     & \today       \\
 
-            地点：     & 3313         & 成绩：     &              \\
+            地点：     & xxxx         & 成绩：     &              \\
         \end{tabular}}
 \end{table}
 
 \vspace{10\baselineskip}
 
 \centering
-南京航空航天大学 \\
+xxxxxxxx \\
 \newpage
 
 
